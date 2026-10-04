@@ -1,0 +1,530 @@
+[
+    {
+        "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=400",
+        "title": "Spotify",
+        "companyName": "Spotify AB",
+        "id": 1,
+        "description": "Stream millions of songs and podcasts, discover new music, and create personalized playlists for every mood.",
+        "size": 85,
+        "reviews": 2450000,
+        "ratingAvg": 4.6,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 98000
+            },
+            {
+                "name": "2 star",
+                "count": 76000
+            },
+            {
+                "name": "3 star",
+                "count": 145000
+            },
+            {
+                "name": "4 star",
+                "count": 420000
+            },
+            {
+                "name": "5 star",
+                "count": 1711000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400",
+        "title": "Google Drive",
+        "companyName": "Google LLC",
+        "id": 2,
+        "description": "Store, organize, share, and access your files securely from anywhere using cloud storage.",
+        "size": 42,
+        "reviews": 1850000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 52000
+            },
+            {
+                "name": "2 star",
+                "count": 43000
+            },
+            {
+                "name": "3 star",
+                "count": 115000
+            },
+            {
+                "name": "4 star",
+                "count": 360000
+            },
+            {
+                "name": "5 star",
+                "count": 1280000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
+        "title": "Instagram",
+        "companyName": "Meta Platforms",
+        "id": 3,
+        "description": "Share photos, videos, stories, and reels while connecting with friends, creators, and communities.",
+        "size": 72,
+        "reviews": 3200000,
+        "ratingAvg": 4.4,
+        "downloads": 2000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 180000
+            },
+            {
+                "name": "2 star",
+                "count": 120000
+            },
+            {
+                "name": "3 star",
+                "count": 210000
+            },
+            {
+                "name": "4 star",
+                "count": 570000
+            },
+            {
+                "name": "5 star",
+                "count": 2120000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=400",
+        "title": "WhatsApp",
+        "companyName": "WhatsApp LLC",
+        "id": 4,
+        "description": "Send messages, make voice and video calls, share media, and stay connected with people around the world.",
+        "size": 68,
+        "reviews": 4100000,
+        "ratingAvg": 4.7,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 85000
+            },
+            {
+                "name": "2 star",
+                "count": 65000
+            },
+            {
+                "name": "3 star",
+                "count": 160000
+            },
+            {
+                "name": "4 star",
+                "count": 620000
+            },
+            {
+                "name": "5 star",
+                "count": 3170000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?w=400",
+        "title": "Notion",
+        "companyName": "Notion Labs",
+        "id": 5,
+        "description": "Organize notes, tasks, projects, documents, and ideas in one flexible workspace.",
+        "size": 55,
+        "reviews": 680000,
+        "ratingAvg": 4.6,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18000
+            },
+            {
+                "name": "2 star",
+                "count": 14000
+            },
+            {
+                "name": "3 star",
+                "count": 42000
+            },
+            {
+                "name": "4 star",
+                "count": 128000
+            },
+            {
+                "name": "5 star",
+                "count": 478000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400",
+        "title": "Canva",
+        "companyName": "Canva Pty Ltd",
+        "id": 6,
+        "description": "Create beautiful designs, presentations, social media posts, posters, and graphics with easy-to-use tools.",
+        "size": 95,
+        "reviews": 920000,
+        "ratingAvg": 4.7,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 21000
+            },
+            {
+                "name": "2 star",
+                "count": 17000
+            },
+            {
+                "name": "3 star",
+                "count": 45000
+            },
+            {
+                "name": "4 star",
+                "count": 180000
+            },
+            {
+                "name": "5 star",
+                "count": 657000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400",
+        "title": "GitHub",
+        "companyName": "GitHub Inc.",
+        "id": 7,
+        "description": "Build, collaborate, review code, and manage software development projects with powerful developer tools.",
+        "size": 48,
+        "reviews": 540000,
+        "ratingAvg": 4.8,
+        "downloads": 100000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 9000
+            },
+            {
+                "name": "2 star",
+                "count": 7000
+            },
+            {
+                "name": "3 star",
+                "count": 21000
+            },
+            {
+                "name": "4 star",
+                "count": 93000
+            },
+            {
+                "name": "5 star",
+                "count": 410000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400",
+        "title": "Discord",
+        "companyName": "Discord Inc.",
+        "id": 8,
+        "description": "Chat with friends, join communities, share screens, and communicate through voice, video, and text.",
+        "size": 110,
+        "reviews": 1250000,
+        "ratingAvg": 4.5,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 45000
+            },
+            {
+                "name": "2 star",
+                "count": 38000
+            },
+            {
+                "name": "3 star",
+                "count": 92000
+            },
+            {
+                "name": "4 star",
+                "count": 260000
+            },
+            {
+                "name": "5 star",
+                "count": 815000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=400",
+        "title": "YouTube",
+        "companyName": "Google LLC",
+        "id": 9,
+        "description": "Watch videos, discover creators, subscribe to channels, and enjoy music, entertainment, and educational content.",
+        "size": 130,
+        "reviews": 5200000,
+        "ratingAvg": 4.6,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 210000
+            },
+            {
+                "name": "2 star",
+                "count": 160000
+            },
+            {
+                "name": "3 star",
+                "count": 280000
+            },
+            {
+                "name": "4 star",
+                "count": 850000
+            },
+            {
+                "name": "5 star",
+                "count": 3700000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?w=400",
+        "title": "Telegram",
+        "companyName": "Telegram FZ-LLC",
+        "id": 10,
+        "description": "Fast and secure messaging with groups, channels, file sharing, voice calls, and powerful privacy features.",
+        "size": 62,
+        "reviews": 2100000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 62000
+            },
+            {
+                "name": "2 star",
+                "count": 48000
+            },
+            {
+                "name": "3 star",
+                "count": 125000
+            },
+            {
+                "name": "4 star",
+                "count": 390000
+            },
+            {
+                "name": "5 star",
+                "count": 1475000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=400",
+        "title": "Slack",
+        "companyName": "Slack Technologies",
+        "id": 11,
+        "description": "Bring teams together with channels, messaging, file sharing, integrations, and organized workplace communication.",
+        "size": 75,
+        "reviews": 460000,
+        "ratingAvg": 4.4,
+        "downloads": 50000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 16000
+            },
+            {
+                "name": "2 star",
+                "count": 14000
+            },
+            {
+                "name": "3 star",
+                "count": 39000
+            },
+            {
+                "name": "4 star",
+                "count": 98000
+            },
+            {
+                "name": "5 star",
+                "count": 293000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1588190343063-8ff1b2f1f9d5?w=400",
+        "title": "Zoom",
+        "companyName": "Zoom Video Communications",
+        "id": 12,
+        "description": "Connect through reliable video meetings, online classes, webinars, screen sharing, and virtual collaboration.",
+        "size": 88,
+        "reviews": 780000,
+        "ratingAvg": 4.3,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 39000
+            },
+            {
+                "name": "2 star",
+                "count": 32000
+            },
+            {
+                "name": "3 star",
+                "count": 82000
+            },
+            {
+                "name": "4 star",
+                "count": 190000
+            },
+            {
+                "name": "5 star",
+                "count": 437000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=400",
+        "title": "Trello",
+        "companyName": "Atlassian",
+        "id": 13,
+        "description": "Manage projects and tasks using boards, lists, cards, checklists, deadlines, and team collaboration.",
+        "size": 52,
+        "reviews": 390000,
+        "ratingAvg": 4.5,
+        "downloads": 50000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 11000
+            },
+            {
+                "name": "2 star",
+                "count": 9000
+            },
+            {
+                "name": "3 star",
+                "count": 28000
+            },
+            {
+                "name": "4 star",
+                "count": 86000
+            },
+            {
+                "name": "5 star",
+                "count": 256000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=400",
+        "title": "Duolingo",
+        "companyName": "Duolingo Inc.",
+        "id": 14,
+        "description": "Learn languages through fun interactive lessons, exercises, challenges, and personalized learning activities.",
+        "size": 98,
+        "reviews": 1650000,
+        "ratingAvg": 4.7,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 29000
+            },
+            {
+                "name": "2 star",
+                "count": 22000
+            },
+            {
+                "name": "3 star",
+                "count": 65000
+            },
+            {
+                "name": "4 star",
+                "count": 260000
+            },
+            {
+                "name": "5 star",
+                "count": 1274000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
+        "title": "PayPal",
+        "companyName": "PayPal Holdings",
+        "id": 15,
+        "description": "Send and receive money, make secure online payments, manage transactions, and shop with confidence.",
+        "size": 78,
+        "reviews": 980000,
+        "ratingAvg": 4.2,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 95000
+            },
+            {
+                "name": "2 star",
+                "count": 72000
+            },
+            {
+                "name": "3 star",
+                "count": 105000
+            },
+            {
+                "name": "4 star",
+                "count": 220000
+            },
+            {
+                "name": "5 star",
+                "count": 488000
+            }
+        ]
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+        "title": "Amazon Shopping",
+        "companyName": "Amazon.com Inc.",
+        "id": 16,
+        "description": "Shop millions of products, compare prices, track orders, and discover deals from around the world.",
+        "size": 120,
+        "reviews": 3600000,
+        "ratingAvg": 4.4,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 145000
+            },
+            {
+                "name": "2 star",
+                "count": 115000
+            },
+            {
+                "name": "3 star",
+                "count": 240000
+            },
+            {
+                "name": "4 star",
+                "count": 650000
+            },
+            {
+                "name": "5 star",
+                "count": 2450000
+            }
+        ]
+    }
+]
