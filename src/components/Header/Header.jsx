@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from '../../assets/logo.png'
 import { FaGithub } from "react-icons/fa";
 
@@ -9,9 +9,11 @@ const Header = () => {
                 <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">
                         <img className='w-10' src={logo} alt="" />
-                        <h1 className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold">
-                            Hero.IO
-                        </h1>
+                        <Link>
+                            <h1 className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold">
+                                Hero.IO
+                            </h1>
+                        </Link>
                     </div>
                     <div>
                         <ul className='flex items-center gap-6 text-gray-700'>

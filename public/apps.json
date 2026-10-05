@@ -1,529 +1,595 @@
 [
     {
-        "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=400",
-        "title": "Spotify",
-        "companyName": "Spotify AB",
+        "image": "https://picsum.photos/seed/fitpulse/200/200",
+        "title": "FitPulse",
+        "companyName": "Pulse Labs",
         "id": 1,
-        "description": "Stream millions of songs and podcasts, discover new music, and create personalized playlists for every mood.",
-        "size": 85,
-        "reviews": 2450000,
-        "ratingAvg": 4.6,
-        "downloads": 500000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 98000
-            },
-            {
-                "name": "2 star",
-                "count": 76000
-            },
-            {
-                "name": "3 star",
-                "count": 145000
-            },
-            {
-                "name": "4 star",
-                "count": 420000
-            },
-            {
-                "name": "5 star",
-                "count": 1711000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400",
-        "title": "Google Drive",
-        "companyName": "Google LLC",
-        "id": 2,
-        "description": "Store, organize, share, and access your files securely from anywhere using cloud storage.",
-        "size": 42,
-        "reviews": 1850000,
-        "ratingAvg": 4.5,
-        "downloads": 1000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 52000
-            },
-            {
-                "name": "2 star",
-                "count": 43000
-            },
-            {
-                "name": "3 star",
-                "count": 115000
-            },
-            {
-                "name": "4 star",
-                "count": 360000
-            },
-            {
-                "name": "5 star",
-                "count": 1280000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400",
-        "title": "Instagram",
-        "companyName": "Meta Platforms",
-        "id": 3,
-        "description": "Share photos, videos, stories, and reels while connecting with friends, creators, and communities.",
-        "size": 72,
-        "reviews": 3200000,
-        "ratingAvg": 4.4,
-        "downloads": 2000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 180000
-            },
-            {
-                "name": "2 star",
-                "count": 120000
-            },
-            {
-                "name": "3 star",
-                "count": 210000
-            },
-            {
-                "name": "4 star",
-                "count": 570000
-            },
-            {
-                "name": "5 star",
-                "count": 2120000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=400",
-        "title": "WhatsApp",
-        "companyName": "WhatsApp LLC",
-        "id": 4,
-        "description": "Send messages, make voice and video calls, share media, and stay connected with people around the world.",
-        "size": 68,
-        "reviews": 4100000,
-        "ratingAvg": 4.7,
-        "downloads": 5000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 85000
-            },
-            {
-                "name": "2 star",
-                "count": 65000
-            },
-            {
-                "name": "3 star",
-                "count": 160000
-            },
-            {
-                "name": "4 star",
-                "count": 620000
-            },
-            {
-                "name": "5 star",
-                "count": 3170000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1586210579191-33b45e38fa2c?w=400",
-        "title": "Notion",
-        "companyName": "Notion Labs",
-        "id": 5,
-        "description": "Organize notes, tasks, projects, documents, and ideas in one flexible workspace.",
-        "size": 55,
-        "reviews": 680000,
-        "ratingAvg": 4.6,
-        "downloads": 100000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 18000
-            },
-            {
-                "name": "2 star",
-                "count": 14000
-            },
-            {
-                "name": "3 star",
-                "count": 42000
-            },
-            {
-                "name": "4 star",
-                "count": 128000
-            },
-            {
-                "name": "5 star",
-                "count": 478000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400",
-        "title": "Canva",
-        "companyName": "Canva Pty Ltd",
-        "id": 6,
-        "description": "Create beautiful designs, presentations, social media posts, posters, and graphics with easy-to-use tools.",
-        "size": 95,
-        "reviews": 920000,
-        "ratingAvg": 4.7,
-        "downloads": 500000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 21000
-            },
-            {
-                "name": "2 star",
-                "count": 17000
-            },
-            {
-                "name": "3 star",
-                "count": 45000
-            },
-            {
-                "name": "4 star",
-                "count": 180000
-            },
-            {
-                "name": "5 star",
-                "count": 657000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400",
-        "title": "GitHub",
-        "companyName": "GitHub Inc.",
-        "id": 7,
-        "description": "Build, collaborate, review code, and manage software development projects with powerful developer tools.",
-        "size": 48,
-        "reviews": 540000,
-        "ratingAvg": 4.8,
-        "downloads": 100000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 9000
-            },
-            {
-                "name": "2 star",
-                "count": 7000
-            },
-            {
-                "name": "3 star",
-                "count": 21000
-            },
-            {
-                "name": "4 star",
-                "count": 93000
-            },
-            {
-                "name": "5 star",
-                "count": 410000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400",
-        "title": "Discord",
-        "companyName": "Discord Inc.",
-        "id": 8,
-        "description": "Chat with friends, join communities, share screens, and communicate through voice, video, and text.",
-        "size": 110,
-        "reviews": 1250000,
-        "ratingAvg": 4.5,
-        "downloads": 500000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 45000
-            },
-            {
-                "name": "2 star",
-                "count": 38000
-            },
-            {
-                "name": "3 star",
-                "count": 92000
-            },
-            {
-                "name": "4 star",
-                "count": 260000
-            },
-            {
-                "name": "5 star",
-                "count": 815000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=400",
-        "title": "YouTube",
-        "companyName": "Google LLC",
-        "id": 9,
-        "description": "Watch videos, discover creators, subscribe to channels, and enjoy music, entertainment, and educational content.",
-        "size": 130,
-        "reviews": 5200000,
-        "ratingAvg": 4.6,
-        "downloads": 10000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 210000
-            },
-            {
-                "name": "2 star",
-                "count": 160000
-            },
-            {
-                "name": "3 star",
-                "count": 280000
-            },
-            {
-                "name": "4 star",
-                "count": 850000
-            },
-            {
-                "name": "5 star",
-                "count": 3700000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?w=400",
-        "title": "Telegram",
-        "companyName": "Telegram FZ-LLC",
-        "id": 10,
-        "description": "Fast and secure messaging with groups, channels, file sharing, voice calls, and powerful privacy features.",
-        "size": 62,
-        "reviews": 2100000,
-        "ratingAvg": 4.5,
-        "downloads": 1000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 62000
-            },
-            {
-                "name": "2 star",
-                "count": 48000
-            },
-            {
-                "name": "3 star",
-                "count": 125000
-            },
-            {
-                "name": "4 star",
-                "count": 390000
-            },
-            {
-                "name": "5 star",
-                "count": 1475000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=400",
-        "title": "Slack",
-        "companyName": "Slack Technologies",
-        "id": 11,
-        "description": "Bring teams together with channels, messaging, file sharing, integrations, and organized workplace communication.",
-        "size": 75,
-        "reviews": 460000,
-        "ratingAvg": 4.4,
-        "downloads": 50000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 16000
-            },
-            {
-                "name": "2 star",
-                "count": 14000
-            },
-            {
-                "name": "3 star",
-                "count": 39000
-            },
-            {
-                "name": "4 star",
-                "count": 98000
-            },
-            {
-                "name": "5 star",
-                "count": 293000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1588190343063-8ff1b2f1f9d5?w=400",
-        "title": "Zoom",
-        "companyName": "Zoom Video Communications",
-        "id": 12,
-        "description": "Connect through reliable video meetings, online classes, webinars, screen sharing, and virtual collaboration.",
-        "size": 88,
-        "reviews": 780000,
+        "description": "FitPulse is an all-in-one fitness companion built to help you create healthy habits and stay consistent, whether you are just starting your journey or training for your next race. The app brings workout tracking, goal setting, and heart rate monitoring into a single clean dashboard, so you no longer need to juggle several apps to understand how your body is performing. Every session you log feeds into smart daily insights that show what is working and what needs a little adjustment.\n\nTracking a workout takes only a few taps. Log running, cycling, swimming, strength training, yoga, hiking, and dozens of other activities, and FitPulse records duration, distance, pace, calories burned, and intensity automatically. You can follow ready-made training plans for beginners and advanced athletes, or build your own routines with sets, reps, rest timers, and personal notes. Progress charts show how your strength and endurance improve week after week.\n\nHeart rate monitoring is at the core of the experience. Connect a compatible wearable or use your phone sensors to see your heart rate zones in real time, so you always know how hard you are pushing. After each session, the recovery view estimates how ready your body is for the next workout, helping you decide when to train harder and when to take a well-earned rest day.\n\nMotivation is built in. Set daily, weekly, or monthly goals for steps, active minutes, workouts, or body weight, and watch your progress fill up throughout the day. Streaks, badges, and friendly challenges keep you moving, while weekly summaries celebrate your wins and gently point out where you can improve. You can join groups and share milestones with friends who are on the same path.\n\nFitPulse also respects your privacy. Your health data is encrypted, you decide what to share, and you can export your full history at any time. The app works offline during workouts and syncs automatically when you reconnect. With customizable widgets, light and dark themes, and regular updates based on community feedback, FitPulse is a dependable partner for a healthier, more active life.\n\nBeyond the numbers, FitPulse is built around the idea that fitness should fit into real life. Busy schedules, travel, and unexpected setbacks are all part of the journey, so the app adapts your plans and goals instead of making you feel behind. Short ten-minute routines, stretching sessions, and walking challenges help you stay active even on the most demanding days. Many members say that small, steady progress with FitPulse has changed how they feel every day.",
+        "size": 151,
+        "reviews": "678.5k",
         "ratingAvg": 4.3,
-        "downloads": 500000000,
+        "downloads": "100k",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 39000
+                "count": 20923
             },
             {
                 "name": "2 star",
-                "count": 32000
+                "count": 42493
             },
             {
                 "name": "3 star",
-                "count": 82000
+                "count": 57451
             },
             {
                 "name": "4 star",
-                "count": 190000
+                "count": 146259
             },
             {
                 "name": "5 star",
-                "count": 437000
+                "count": 411358
             }
         ]
     },
     {
-        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=400",
-        "title": "Trello",
-        "companyName": "Atlassian",
-        "id": 13,
-        "description": "Manage projects and tasks using boards, lists, cards, checklists, deadlines, and team collaboration.",
+        "image": "https://picsum.photos/seed/quicknotes/200/200",
+        "title": "QuickNotes",
+        "companyName": "Notely Inc.",
+        "id": 2,
+        "description": "QuickNotes is a fast, minimal note-taking app made for people who want to capture ideas the moment they appear without fighting a cluttered interface. Open the app and you are immediately in a blank note, ready to type. There are no confusing menus or unnecessary steps, just a focused writing space that stays out of your way and lets your thoughts flow.\n\nOrganization stays simple but powerful. Group notes into folders, add colorful tags, pin important notes to the top, and use instant search to find anything in seconds, even across thousands of entries. Checklists, headings, bullet points, and basic formatting are available through a lightweight toolbar, so your notes can be as structured or as casual as you like. Meeting notes, grocery lists, study summaries, and journal entries all feel equally at home.\n\nCloud sync keeps your notes up to date on every device. Start a note on your phone during your commute, continue on your tablet at home, and review it on your laptop at work. Changes sync in the background within moments, and offline mode lets you keep writing without a connection, with everything merging safely once you are back online. Version history allows you to restore earlier drafts if you change your mind.\n\nQuickNotes also includes smart extras that save time. Attach photos, scan documents, record short voice memos, and add reminders to turn a note into a task. Share notes with friends or colleagues through a simple link, or invite others to edit together in real time. Home screen widgets and quick capture shortcuts let you create a note in a single tap.\n\nSecurity matters too. Lock sensitive notes with a passcode or biometric authentication, and keep private folders protected with end-to-end encryption. Export notes to PDF, text, or Markdown whenever you want, so you are never locked in. Dark mode, adjustable font sizes, and a distraction-free writing mode make long sessions comfortable. Lightweight and quick, QuickNotes is the dependable notebook for students, professionals, and anyone with ideas worth keeping.\n\nQuickNotes is also built for the long run. As your collection of notes grows from a handful to thousands, the app stays smooth and responsive, and your tags, folders, and search keep everything easy to reach. Regular updates focus on speed, reliability, and thoughtful improvements requested by real users. Many people use QuickNotes as a second brain, a place where plans, memories, and discoveries are stored safely and found again exactly when they are needed.",
+        "size": 62,
+        "reviews": "627.2k",
+        "ratingAvg": 4.3,
+        "downloads": "5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 28654
+            },
+            {
+                "name": "2 star",
+                "count": 16466
+            },
+            {
+                "name": "3 star",
+                "count": 50744
+            },
+            {
+                "name": "4 star",
+                "count": 175457
+            },
+            {
+                "name": "5 star",
+                "count": 355852
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/budgetbee/200/200",
+        "title": "BudgetBee",
+        "companyName": "Hive Finance",
+        "id": 3,
+        "description": "BudgetBee helps you take control of your money without spreadsheets, stress, or guesswork. Whether you want to save for a trip, pay off debt, or simply understand where your salary disappears each month, the app turns everyday spending into clear, friendly insights. Setting up takes only a few minutes, and from then on BudgetBee does most of the heavy lifting for you.\n\nRecording expenses is quick and flexible. Add a transaction manually in seconds, scan a receipt with your camera, or connect supported accounts to import purchases automatically. Each entry is sorted into categories such as groceries, transport, bills, entertainment, and health, and you can create your own categories to match your lifestyle. Recurring payments like rent and subscriptions are tracked automatically, so nothing surprises you at the end of the month.\n\nThe budgeting tools are where BudgetBee truly shines. Set a monthly limit for each category and watch a simple progress bar show how much you have left. When you get close to a limit, a gentle alert helps you adjust before overspending. Savings goals let you name what you are working toward, set a target amount and date, and see exactly how much to set aside each week to get there.\n\nReports turn raw numbers into understanding. Colorful charts show spending by category, income versus expenses, and trends across months, helping you spot habits you may not have noticed. Weekly summaries highlight your biggest expenses and celebrate days when you stayed under budget. Shared budgets make it easy for couples, families, or roommates to manage household costs together with clear visibility for everyone.\n\nYour financial information is protected with bank-grade encryption, biometric lock, and optional passcode. You stay in control of your data, and you can export it to CSV or PDF at any time. Multiple currencies, bill reminders, and a clean, motivating design make BudgetBee a practical everyday money coach for anyone who wants calmer finances and more confident decisions.\n\nBudgetBee is designed to be encouraging rather than strict. Instead of making you feel guilty about spending, it celebrates progress, explains where improvements are possible, and respects that every household has different priorities. Small wins such as a no-spend weekend or a completed savings goal are recognized with friendly messages. Over time, many users report that simply seeing their finances clearly has helped them feel calmer, more organized, and far more confident about the future.",
         "size": 52,
-        "reviews": 390000,
-        "ratingAvg": 4.5,
-        "downloads": 50000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 11000
-            },
-            {
-                "name": "2 star",
-                "count": 9000
-            },
-            {
-                "name": "3 star",
-                "count": 28000
-            },
-            {
-                "name": "4 star",
-                "count": 86000
-            },
-            {
-                "name": "5 star",
-                "count": 256000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=400",
-        "title": "Duolingo",
-        "companyName": "Duolingo Inc.",
-        "id": 14,
-        "description": "Learn languages through fun interactive lessons, exercises, challenges, and personalized learning activities.",
-        "size": 98,
-        "reviews": 1650000,
-        "ratingAvg": 4.7,
-        "downloads": 500000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 29000
-            },
-            {
-                "name": "2 star",
-                "count": 22000
-            },
-            {
-                "name": "3 star",
-                "count": 65000
-            },
-            {
-                "name": "4 star",
-                "count": 260000
-            },
-            {
-                "name": "5 star",
-                "count": 1274000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400",
-        "title": "PayPal",
-        "companyName": "PayPal Holdings",
-        "id": 15,
-        "description": "Send and receive money, make secure online payments, manage transactions, and shop with confidence.",
-        "size": 78,
-        "reviews": 980000,
-        "ratingAvg": 4.2,
-        "downloads": 1000000000,
-        "ratings": [
-            {
-                "name": "1 star",
-                "count": 95000
-            },
-            {
-                "name": "2 star",
-                "count": 72000
-            },
-            {
-                "name": "3 star",
-                "count": 105000
-            },
-            {
-                "name": "4 star",
-                "count": 220000
-            },
-            {
-                "name": "5 star",
-                "count": 488000
-            }
-        ]
-    },
-    {
-        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
-        "title": "Amazon Shopping",
-        "companyName": "Amazon.com Inc.",
-        "id": 16,
-        "description": "Shop millions of products, compare prices, track orders, and discover deals from around the world.",
-        "size": 120,
-        "reviews": 3600000,
+        "reviews": "689.5k",
         "ratingAvg": 4.4,
-        "downloads": 1000000000,
+        "downloads": "5M",
         "ratings": [
             {
                 "name": "1 star",
-                "count": 145000
+                "count": 30997
             },
             {
                 "name": "2 star",
-                "count": 115000
+                "count": 23726
             },
             {
                 "name": "3 star",
-                "count": 240000
+                "count": 52537
             },
             {
                 "name": "4 star",
-                "count": 650000
+                "count": 123679
             },
             {
                 "name": "5 star",
-                "count": 2450000
+                "count": 458512
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/pixelcam/200/200",
+        "title": "PixelCam",
+        "companyName": "Lumen Studio",
+        "id": 4,
+        "description": "PixelCam is a powerful camera app that brings professional-level controls and beautiful editing tools to your phone, without making photography feel complicated. Whether you love portraits, landscapes, street photography, or quick snapshots of everyday life, PixelCam helps you capture sharper, richer, and more expressive images every time you press the shutter.\n\nBeginners will appreciate the smart auto mode, which analyzes the scene and adjusts exposure, focus, and color balance for you. Enthusiasts can switch to manual mode and take full control over ISO, shutter speed, white balance, and focus distance. Helpful overlays such as a grid, level indicator, and live histogram guide your composition, while RAW capture preserves every detail for later editing. Night mode combines multiple frames to produce bright, clean photos in low light.\n\nThe filter collection is designed with a natural, tasteful look. Choose from film-inspired presets, cinematic tones, soft portrait looks, and bold black-and-white styles, then fine-tune them with adjustable strength. Live preview lets you see the final result before you shoot, so you can focus on the moment instead of fixing everything afterward. Portrait mode adds a gentle background blur with edge detection that keeps hair and details crisp.\n\nEditing is fast and intuitive. After taking a photo, you can crop, rotate, straighten, and adjust brightness, contrast, warmth, shadows, highlights, and sharpness with smooth sliders. Selective tools allow you to brighten a face or deepen a sky without touching the rest of the image. Removing small distractions, adding text, and applying frames take only a few taps, and every edit is non-destructive, so you can always return to the original.\n\nSharing is effortless. Export in your preferred size and quality, post directly to your favorite social platforms, or back up your gallery to the cloud. Video mode supports stabilized recording, slow motion, and time-lapse for creative storytelling. Lightweight, responsive, and constantly improved, PixelCam gives everyone the tools to turn ordinary moments into photographs worth keeping.\n\nPixelCam grows with your creativity. Tutorials and photography tips inside the app explain concepts such as lighting, framing, and composition in simple language, so every shot teaches you something new. Seasonal filter packs, community challenges, and regular feature updates keep the experience fresh. Whether you are building a portfolio, documenting family memories, or simply enjoying a hobby, PixelCam helps you see the world more beautifully and share it with pride.",
+        "size": 36,
+        "reviews": "451.1k",
+        "ratingAvg": 4.2,
+        "downloads": "500k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 17731
+            },
+            {
+                "name": "2 star",
+                "count": 13832
+            },
+            {
+                "name": "3 star",
+                "count": 61727
+            },
+            {
+                "name": "4 star",
+                "count": 105770
+            },
+            {
+                "name": "5 star",
+                "count": 252081
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/zenmind/200/200",
+        "title": "ZenMind",
+        "companyName": "Calm Orbit",
+        "id": 5,
+        "description": "ZenMind is a calming companion for busy days and restless nights. Created by a team of mindfulness practitioners and sound designers, the app offers a peaceful space where you can slow down, breathe, and reconnect with yourself. You do not need any experience with meditation, because ZenMind guides you gently from your very first session.\n\nThe meditation library includes hundreds of guided sessions ranging from three minutes to an hour. Choose themes such as stress relief, focus, anxiety, gratitude, self-compassion, and morning energy, or follow a structured course that builds skills step by step. Soothing voices lead you through breathing techniques, body scans, and visualizations, and a simple timer is available if you prefer to meditate in silence with soft bells.\n\nSleep is a major focus. Bedtime stories narrated in a soft, steady voice help your mind unwind, while ambient soundscapes like rain, ocean waves, forest nights, and gentle wind create a restful atmosphere. A sleep timer fades the audio out gradually, and a wake-up mode greets you with calm sounds instead of a harsh alarm. Many users find that a short nightly routine makes falling asleep easier within a couple of weeks.\n\nFor moments when you need relief right away, the quick-calm toolkit offers guided breathing exercises, short grounding practices, and a panic-friendly mode with simple visuals. The mood journal lets you check in with how you feel, note what influenced your day, and review patterns over time. Gentle reminders, streaks, and weekly reflections encourage consistency without pressure or guilt.\n\nZenMind is designed to feel as peaceful as the practices it offers. The clean interface, soft colors, and uncluttered layout keep distractions low, and downloads let you listen anywhere without a connection. Your journal and progress remain private and protected. Whether you spend five minutes between meetings or an hour before bed, ZenMind helps you build a steadier, kinder relationship with your mind, one calm breath at a time.\n\nZenMind is made for real life, not perfection. You can miss a day, start again, and still feel welcome, because the app focuses on kindness rather than strict rules. Short practices fit into lunch breaks, waiting rooms, and busy mornings, and longer sessions are ready whenever you have more time. Many people notice that even a few minutes of daily practice brings greater patience, better focus, and a lighter feeling throughout the day.",
+        "size": 108,
+        "reviews": "896.7k",
+        "ratingAvg": 4.3,
+        "downloads": "100k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 36746
+            },
+            {
+                "name": "2 star",
+                "count": 33287
+            },
+            {
+                "name": "3 star",
+                "count": 57736
+            },
+            {
+                "name": "4 star",
+                "count": 238292
+            },
+            {
+                "name": "5 star",
+                "count": 530598
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/tasknest/200/200",
+        "title": "TaskNest",
+        "companyName": "NestWorks",
+        "id": 6,
+        "description": "TaskNest is a clean, flexible planner that helps you organize everything on your plate, from simple daily errands to complex team projects. Instead of overwhelming you with features, it gives you a calm, structured place to capture tasks, decide what matters, and move steadily toward your goals. Many people find that just seeing everything in one organized view brings an immediate sense of relief.\n\nCreating a task takes seconds. Type a title, add notes, set a due date, choose a priority, and attach files or links if needed. Natural language entry understands phrases like \"call the bank tomorrow at 3 pm\" and fills in the details automatically. Subtasks and checklists break big jobs into manageable steps, while recurring tasks take care of routines such as weekly reports, bill payments, and workouts.\n\nThe drag-and-drop planner is the heart of TaskNest. Switch between list view, board view, and calendar view depending on how you like to work. Move cards across columns like To Do, In Progress, and Done, or drag a task onto a calendar day to schedule it. Projects, labels, and filters keep everything tidy, and the Today screen shows only what needs your attention right now, so you can focus without distraction.\n\nReminders ensure that nothing slips through the cracks. Choose time-based or location-based alerts, snooze them when plans change, and receive a gentle daily summary every morning. Collaboration features let you share projects, assign tasks, leave comments, and track progress with teammates, family members, or classmates. Everyone sees the same up-to-date plan, which reduces confusion and endless message threads.\n\nProductivity insights show how many tasks you complete each week, which days you are most effective, and where work tends to pile up. Cloud sync keeps your plans updated across phone, tablet, and desktop, and offline access means your list is always available. With widgets, themes, and keyboard-friendly shortcuts, TaskNest adapts to your personal style and helps you get more done with less stress.\n\nTaskNest is also designed to reduce mental clutter. When every commitment is written down and scheduled, your mind is free to concentrate on the work in front of you instead of constantly trying to remember everything. Weekly reviews guide you to clear finished items, reschedule unfinished ones, and plan the days ahead. Students, freelancers, parents, and professionals all use TaskNest to feel more prepared, more focused, and more in control of their time.",
+        "size": 29,
+        "reviews": "586.9k",
+        "ratingAvg": 4.2,
+        "downloads": "100k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20670
+            },
+            {
+                "name": "2 star",
+                "count": 29412
+            },
+            {
+                "name": "3 star",
+                "count": 72955
+            },
+            {
+                "name": "4 star",
+                "count": 133064
+            },
+            {
+                "name": "5 star",
+                "count": 330754
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/lingoleap/200/200",
+        "title": "LingoLeap",
+        "companyName": "LeapEdu",
+        "id": 7,
+        "description": "LingoLeap makes learning a new language feel more like play than homework. Built around short, friendly lessons that fit into a coffee break or a commute, the app helps you start speaking with confidence from day one. Whether you are preparing for travel, advancing your career, connecting with family, or simply exploring a new culture, LingoLeap gives you a clear path forward.\n\nEach course is organized into small units that gradually build vocabulary, grammar, listening, reading, and conversation skills. Lessons use pictures, audio recordings from native speakers, and interactive exercises such as matching, sentence building, and fill-in-the-blank. Instead of memorizing long lists of words, you learn phrases in real situations like ordering food, asking for directions, introducing yourself, and making new friends, so what you study is immediately useful.\n\nSpeech practice is one of the standout features. Using your microphone, LingoLeap listens to your pronunciation and gives instant feedback on individual sounds, rhythm, and intonation. You can repeat difficult words, compare your voice with a native speaker, and track improvement over time. Role-play conversations let you practice dialogues with a friendly virtual partner, which builds courage before you try speaking with real people.\n\nGames and rewards keep your motivation high. Earn points for every lesson, maintain daily streaks, unlock achievements, and climb weekly leaderboards with friends or learners from around the world. A smart review system tracks the words you find difficult and brings them back at the ideal moment, which helps move vocabulary into long-term memory. Personalized goals let you choose five, ten, or twenty minutes a day and adjust the pace whenever life gets busy.\n\nLingoLeap supports offline lessons, so you can keep learning on flights or in areas with weak signal. Progress syncs across all your devices, and optional reminders help you stay consistent. With regular new content, cultural notes, and listening stories for every level, LingoLeap turns steady daily practice into real, lasting fluency.\n\nLingoLeap is built on the belief that consistency beats intensity. Ten relaxed minutes every day will take you much further than a single long study session once a month, and the app is designed to make that habit enjoyable. Cultural tips, fun facts, and real-life dialogues keep lessons interesting, and gentle encouragement appears when you need it most. Many learners are surprised by how quickly they begin understanding songs, shows, and conversations in their new language.",
+        "size": 83,
+        "reviews": "701.4k",
+        "ratingAvg": 4.4,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 26131
+            },
+            {
+                "name": "2 star",
+                "count": 28338
+            },
+            {
+                "name": "3 star",
+                "count": 49887
+            },
+            {
+                "name": "4 star",
+                "count": 165962
+            },
+            {
+                "name": "5 star",
+                "count": 431064
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/roadmate/200/200",
+        "title": "RoadMate",
+        "companyName": "Wayfind Co.",
+        "id": 8,
+        "description": "RoadMate is a dependable navigation app designed to make every journey smoother, safer, and less stressful. From daily commutes to long road trips, it provides clear directions, accurate arrival times, and timely updates so you can focus on driving instead of worrying about the route. The interface is simple and easy to read at a glance, even in bright sunlight or at night.\n\nLive traffic information is at the center of the experience. RoadMate continuously analyzes road conditions, accidents, construction, and congestion, and automatically suggests faster alternatives when delays appear ahead. You will receive alerts about speed cameras, hazards, stopped vehicles, and road closures, many of them reported by fellow drivers in your area. Lane guidance and junction views make complicated intersections and highway exits much easier to handle.\n\nOffline maps ensure you are never lost, even without a signal. Download entire cities or regions in advance, and RoadMate continues to provide search, routing, and turn-by-turn directions with no data connection. This feature is perfect for travel abroad, mountain drives, and areas with unreliable coverage, and it also helps you save mobile data during everyday use.\n\nVoice guidance keeps your eyes on the road. Clear, natural spoken instructions tell you exactly when to turn, and you can choose from several voices and languages. Hands-free voice commands let you search for destinations, add stops, or report hazards without touching your phone. Along your route, RoadMate can suggest fuel stations, charging points, parking, restaurants, and rest areas, showing prices and opening hours where available.\n\nPlanning tools make longer trips easier. Add multiple stops, compare routes by time or distance, avoid tolls or highways, and save favorite places such as home and work. Trip history and departure reminders help you leave at the right moment, and you can share your live location and estimated arrival with family or friends. Whether you drive a car, motorbike, or van, RoadMate is a trustworthy guide for the road ahead.\n\nRoadMate is continually improved through feedback from drivers around the world. Map data is refreshed regularly, new roads and businesses are added quickly, and route calculations become smarter with every update. The app is also designed to be light on battery and data, so it remains a dependable companion on long journeys. Whether you are exploring a new city or driving a familiar route, RoadMate helps you arrive calmly and on time.",
+        "size": 177,
+        "reviews": "674.6k",
+        "ratingAvg": 4.3,
+        "downloads": "100k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 33774
+            },
+            {
+                "name": "2 star",
+                "count": 16776
+            },
+            {
+                "name": "3 star",
+                "count": 47385
+            },
+            {
+                "name": "4 star",
+                "count": 158560
+            },
+            {
+                "name": "5 star",
+                "count": 418066
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/chefbox/200/200",
+        "title": "ChefBox",
+        "companyName": "Tasty Labs",
+        "id": 9,
+        "description": "ChefBox is a friendly kitchen companion that helps you decide what to cook, shop smarter, and enjoy delicious meals at home. With thousands of tested recipes from around the world, it takes the stress out of the daily question of what to eat. Whether you are a complete beginner or a confident home cook, ChefBox offers clear guidance that makes cooking enjoyable and rewarding.\n\nEvery recipe comes with step-by-step instructions, helpful photos, ingredient lists, preparation times, and nutritional information. Cooking mode keeps the screen awake and displays large, easy-to-read steps, so you can follow along even with messy hands. Built-in timers, serving size adjustment, and unit conversion save you from doing math in the middle of a busy kitchen. Short technique videos show skills such as chopping onions, folding dough, and searing meat the right way.\n\nFinding the perfect recipe is simple. Search by ingredient, cuisine, cooking time, difficulty, or occasion, and filter for dietary needs such as vegetarian, vegan, gluten-free, low-carb, or dairy-free. Have a few items left in the refrigerator? Enter them and ChefBox suggests dishes you can make right away, which helps reduce food waste and unnecessary trips to the store.\n\nMeal planning brings everything together. Drag recipes into a weekly calendar, and ChefBox automatically builds a shopping list organized by supermarket section, combining duplicate ingredients and subtracting what you already have at home. You can share the list with family members so everyone can add items or check them off in real time. Planning ahead saves money, shortens cooking time, and makes healthy eating feel more achievable.\n\nYour personal cookbook grows with you. Save favorites, create collections for holidays or weeknight dinners, add your own recipes with photos, and write private notes about changes that worked well. Community ratings and reviews help you choose confidently, and new seasonal recipes appear every week. Offline access means your cookbook is always available. With ChefBox, every meal becomes a little easier, tastier, and more fun.\n\nChefBox also celebrates the joy of sharing food. Hosting guides suggest menus for dinner parties, holidays, picnics, and family gatherings, complete with timelines that help everything arrive at the table together. Budget-friendly collections, quick weeknight meals, and healthy meal prep ideas make it easy to cook for any occasion. With ChefBox in your kitchen, you will gain confidence, discover new favorite flavors, and create meals that people remember.",
+        "size": 175,
+        "reviews": "646.7k",
+        "ratingAvg": 4.3,
+        "downloads": "5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 32470
+            },
+            {
+                "name": "2 star",
+                "count": 29585
+            },
+            {
+                "name": "3 star",
+                "count": 48017
+            },
+            {
+                "name": "4 star",
+                "count": 156875
+            },
+            {
+                "name": "5 star",
+                "count": 379770
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/snapchatty/200/200",
+        "title": "SnapChatty",
+        "companyName": "Bubble Social",
+        "id": 10,
+        "description": "SnapChatty is a lively messaging app designed for people who want conversations that feel fun, personal, and spontaneous. It combines the speed of everyday chat with expressive tools like stickers, voice notes, photos, and disappearing messages, so you can share your mood and moments exactly the way you want. Sending a message is quick, and the playful design makes every chat feel lighter.\n\nMessaging covers all the essentials and more. Send text, emojis, photos, short videos, files, and your location in one-on-one chats or group conversations of up to several hundred members. Reactions let you respond to a message with a single tap, replies keep long threads easy to follow, and pinned messages help groups remember important details. Typing indicators and read receipts are optional, so you decide how much to show.\n\nStickers and creative tools are a highlight. Browse thousands of animated stickers, GIFs, and emoji packs, or create your own from your photos in seconds. Draw on pictures, add text, and apply fun effects before sending. Voice notes allow you to speak naturally, with playback speed controls and transcripts for those moments when you cannot listen aloud. Quick voice and video calls are available with clear quality, even on slower connections.\n\nDisappearing messages offer a relaxed way to share without leaving a permanent trail. Choose a timer from a few seconds to a full day, and the message vanishes after it has been viewed. Screenshot alerts, private chat locks, and hidden folders give you extra control over sensitive conversations. Block and report tools, along with message filtering, help keep your space friendly and respectful.\n\nSnapChatty keeps your community close. Create group chats for family, classmates, teams, or hobbies, set custom themes and nicknames, and share photo albums that everyone can add to. Stories let you post updates that last for twenty-four hours, and status indicators show when friends are free to chat. With strong encryption, fast delivery, and a delightful, ever-growing set of features, SnapChatty keeps you connected to the people who matter.\n\nSnapChatty is built to feel like a happy place to talk. The community guidelines encourage kindness, and tools such as muted chats, restricted contacts, and quiet hours let you enjoy conversations on your own terms. Frequent updates bring new sticker packs, seasonal effects, and creative features inspired by user suggestions. Whether you are planning a weekend outing, sharing a joke, or simply saying good morning, SnapChatty makes every message count.",
+        "size": 92,
+        "reviews": "592k",
+        "ratingAvg": 4.4,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 16698
+            },
+            {
+                "name": "2 star",
+                "count": 19127
+            },
+            {
+                "name": "3 star",
+                "count": 60206
+            },
+            {
+                "name": "4 star",
+                "count": 91887
+            },
+            {
+                "name": "5 star",
+                "count": 404083
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/skycast/200/200",
+        "title": "SkyCast",
+        "companyName": "Cloudline",
+        "id": 11,
+        "description": "SkyCast is a precise and easy-to-read weather app that helps you plan your day with confidence. Instead of vague predictions, it gives you detailed, location-specific forecasts that update throughout the day. A quick look at the home screen shows the current temperature, what it feels like, chances of rain, wind, humidity, and a short summary written in plain language.\n\nThe hourly forecast covers the next two days, so you can decide when to go for a run, hang laundry outside, or leave for the airport. A ten-day outlook helps with longer plans such as weekend trips, outdoor events, and travel. Minute-by-minute precipitation alerts tell you when rain will begin or stop where you are standing, which is especially useful when you are walking, cycling, or waiting for a ride.\n\nInteractive radar maps are one of the best features. View rainfall, snow, clouds, wind, temperature, and storm tracks with smooth animations that show how conditions are moving. Zoom in to your neighborhood or out to see an entire region, and use the timeline slider to look back at the last few hours or ahead to the expected path of approaching systems. Satellite and lightning layers add even more context during active weather.\n\nSevere weather alerts keep you and your family safe. SkyCast sends timely notifications for storms, heavy rain, floods, heat waves, cold snaps, strong winds, and other official warnings, with clear advice on what they mean and how to prepare. You can follow multiple locations, such as home, work, and a relative's city, and receive alerts only for the places you care about.\n\nExtra details make SkyCast useful for everyone. Check air quality and pollen levels, UV index, sunrise and sunset times, moon phases, and visibility. Home screen widgets, lock screen updates, and a gentle morning briefing make weather information available without opening the app. Customizable units, light and dark themes, and a battery-friendly design complete a forecast tool that you can rely on every day.\n\nSkyCast is built for people who rely on accurate information. Forecast data comes from trusted meteorological sources and is combined with local observations to improve precision, and the app clearly shows how confident each prediction is. Short educational notes explain weather terms in simple language, so you understand not just what is happening but why. Whether you are a commuter, farmer, traveler, or parent, SkyCast helps you prepare for whatever the sky brings.",
+        "size": 139,
+        "reviews": "288.7k",
+        "ratingAvg": 4.3,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 6954
+            },
+            {
+                "name": "2 star",
+                "count": 17356
+            },
+            {
+                "name": "3 star",
+                "count": 27544
+            },
+            {
+                "name": "4 star",
+                "count": 79125
+            },
+            {
+                "name": "5 star",
+                "count": 157764
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/moneywise/200/200",
+        "title": "MoneyWise",
+        "companyName": "Hive Finance",
+        "id": 12,
+        "description": "MoneyWise is a secure and simple financial app that brings your everyday money tasks together in one trusted place. Send money to friends, pay bills, top up your phone, and monitor your savings without switching between different services. The goal is to make managing money feel quick, clear, and safe, whether you are paying for lunch or planning for the future.\n\nSending and receiving money takes only a few taps. Choose a contact, enter an amount, add a short note, and confirm with your fingerprint or face. Transfers are fast, with instant confirmation, and you can split a restaurant bill, request money from a group, or schedule payments for a later date. A clear transaction history shows every payment with dates, amounts, and receipts, so you always know exactly where your money went.\n\nBill payments are made easy. Add your utilities, internet, mobile, tuition, and subscription accounts, and pay them directly from the app. Reminders warn you before due dates, and recurring payments can be set up so you never miss a deadline or pay a late fee. Digital receipts are stored automatically, which makes it simple to find proof of payment when you need it.\n\nThe savings tools help you build healthy habits. Create separate savings pots for goals such as an emergency fund, a new laptop, or a family holiday, and set rules to move small amounts automatically each week. Visual progress tracking shows how close you are to every goal, while spending insights explain which categories take the largest share of your income. Simple monthly reports make it easier to notice trends and adjust your plans.\n\nSecurity is at the heart of MoneyWise. Your data is protected with strong encryption, biometric login, and optional two-step verification. Instant alerts notify you about every transaction, and you can freeze your account in seconds if something looks wrong. A friendly support team is available when you need help. With its clean design and dependable features, MoneyWise helps you handle money with confidence.\n\nMoneyWise is also designed to be accessible to everyone. The interface uses clear language, large buttons, and helpful guidance, so first-time users can complete payments confidently. Rewards, cashback offers, and special promotions are available with partner merchants, adding small benefits to everyday spending. As more features are added, the core promise remains the same: simple, secure, and transparent money management that gives you peace of mind every single day.",
+        "size": 161,
+        "reviews": "682.1k",
+        "ratingAvg": 4.3,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 29091
+            },
+            {
+                "name": "2 star",
+                "count": 23206
+            },
+            {
+                "name": "3 star",
+                "count": 51020
+            },
+            {
+                "name": "4 star",
+                "count": 177645
+            },
+            {
+                "name": "5 star",
+                "count": 401114
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/beatdrop/200/200",
+        "title": "BeatDrop",
+        "companyName": "Soundwave Ltd.",
+        "id": 13,
+        "description": "BeatDrop is a music streaming app that puts millions of songs, albums, and podcasts in your pocket. Designed for people who love discovering new sounds as much as replaying old favorites, it combines a vast catalog with smart personalization, so there is always something that fits your mood. From the first song you play, BeatDrop begins learning what you enjoy and shaping a listening experience that feels uniquely yours.\n\nPersonalized playlists are the heart of the app. Your daily mixes blend songs you love with fresh recommendations, while weekly discovery lists introduce emerging artists and hidden gems. Mood and activity playlists cover everything from focus and workouts to relaxation and road trips. You can also create your own playlists, collaborate with friends on shared lists, and follow curated collections made by music editors and fellow listeners.\n\nSound quality and control are taken seriously. Choose between standard, high, and lossless streaming depending on your connection and headphones, and fine-tune the audio with a built-in equalizer and gapless playback. Download songs, albums, and playlists to listen offline during flights, workouts, or commutes without using mobile data. A sleep timer, crossfade settings, and a lyrics view that scrolls in sync with the music add extra convenience.\n\nPodcasts and audio shows live alongside your music. Browse popular categories such as comedy, news, learning, true stories, and wellness, follow your favorite hosts, and receive new episodes automatically. Playback speed controls, chapter markers, and resume-anywhere syncing make longer episodes easy to enjoy. Everything sits in one library, so you can move from a favorite song to an interesting conversation without leaving the app.\n\nBeatDrop also helps you connect through music. Follow friends to see what they are playing, share songs through messages and social media, and join live listening sessions where everyone hears the same track together. Artist pages include biographies, upcoming concerts, and merchandise links. Whether you are exploring a new genre or revisiting a classic album, BeatDrop makes every listening moment richer.\n\nBeatDrop is committed to supporting artists as well as listeners. Independent musicians can share their work, grow audiences, and receive fair recognition, which keeps the catalog diverse and exciting. Regular editorial features, genre spotlights, and anniversary playlists celebrate the stories behind the music. Whether you love pop, hip-hop, classical, folk, electronic, or something unexpected, BeatDrop helps you find the songs that become the soundtrack of your life.",
+        "size": 24,
+        "reviews": "619.9k",
+        "ratingAvg": 4.2,
+        "downloads": "10M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25105
+            },
+            {
+                "name": "2 star",
+                "count": 20078
+            },
+            {
+                "name": "3 star",
+                "count": 83620
+            },
+            {
+                "name": "4 star",
+                "count": 158011
+            },
+            {
+                "name": "5 star",
+                "count": 333061
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/readsphere/200/200",
+        "title": "ReadSphere",
+        "companyName": "PageTurn Media",
+        "id": 14,
+        "description": "ReadSphere is a digital library that lets you carry thousands of books wherever you go. Whether you enjoy novels, biographies, business guides, children's stories, or academic titles, the app offers a comfortable and convenient way to read, listen, and learn at your own pace. Reading becomes a daily habit when your favorite books are always just a tap away.\n\nThe e-book reader is built for comfort. Adjust font style, size, line spacing, margins, and background color to suit your eyes, and switch to a warm night mode for relaxing reading before bed. Highlight meaningful passages, add notes, bookmark pages, and look up unfamiliar words with a built-in dictionary. Your highlights and notes are collected in one place, making it easy to revisit important ideas or prepare for exams and discussions.\n\nAudiobooks are available for many titles, narrated by professional voice artists and authors. Listen while commuting, cooking, exercising, or relaxing, and control the experience with speed adjustment, sleep timer, and chapter navigation. Switching between reading and listening is seamless, because ReadSphere remembers exactly where you stopped and lets you continue in whichever format suits the moment. This makes busy schedules much easier to manage.\n\nDiscovering your next book is part of the pleasure. Browse curated lists, bestsellers, new releases, and genre collections, or let personalized recommendations guide you based on what you have enjoyed before. Read free previews before borrowing or buying, and create wish lists to keep track of titles you want to explore later. Reading challenges, progress statistics, and yearly summaries encourage you to build a consistent reading routine.\n\nOffline mode allows you to download books and enjoy them anywhere without an internet connection, which is ideal for travel and remote areas. Your library syncs across phone, tablet, and computer, and optional family sharing lets several readers use the same collection with their own profiles and recommendations. Clean design, fast performance, and thoughtful features make ReadSphere a welcoming home for readers of every age.\n\nReadSphere is also a wonderful tool for families and students. Children's collections include illustrated stories and read-along features, while study sections offer textbooks, reference works, and summaries that make learning more convenient. Parents can create profiles with age-appropriate recommendations, and teachers can build reading lists for classrooms. By making books easier to reach, ReadSphere encourages curiosity, imagination, and a lifelong love of reading.",
+        "size": 164,
+        "reviews": "123k",
+        "ratingAvg": 4.4,
+        "downloads": "1M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3362
+            },
+            {
+                "name": "2 star",
+                "count": 3399
+            },
+            {
+                "name": "3 star",
+                "count": 12571
+            },
+            {
+                "name": "4 star",
+                "count": 30834
+            },
+            {
+                "name": "5 star",
+                "count": 72807
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/docscan-pro/200/200",
+        "title": "DocScan Pro",
+        "companyName": "Lumen Studio",
+        "id": 15,
+        "description": "DocScan Pro turns your phone into a fast, reliable portable scanner, so paperwork never has to slow you down. Whether you need to digitize a contract, receipt, class notes, ID card, or a page from a book, the app captures clear and professional-looking documents in seconds. There is no need for bulky equipment or trips to a print shop.\n\nScanning is smart and effortless. Point your camera at a document, and DocScan Pro automatically detects the edges, corrects the perspective, removes shadows, and enhances contrast so text appears crisp and readable. Choose from color, grayscale, or black-and-white modes depending on the document type. Batch scanning allows you to capture many pages in a single session and combine them into one organized file, while manual crop tools help with unusual shapes and small details.\n\nText recognition makes your scans far more useful. The built-in OCR converts printed text into editable and searchable content in many languages, so you can copy paragraphs, search for keywords, or export the text for further editing. Imagine finding an old invoice by typing a company name instead of opening dozens of files. Business cards can be scanned and saved directly as contacts, saving time on manual entry.\n\nSigning and editing tools help you finish tasks without printing. Add your signature, initials, date, and text to forms and agreements, highlight important sections, annotate with notes, and fill in fields with a few taps. Pages can be reordered, rotated, merged, or split, and sensitive files can be protected with passwords. Everything is saved as a high-quality PDF or image, and you can compress files to meet email and upload size limits.\n\nSharing and organization are straightforward. Create folders for work, school, finances, and personal records, and back up your documents to your preferred cloud storage. Send files by email, messaging apps, or secure links, and print wirelessly when you need a paper copy. With biometric lock and private on-device processing options, DocScan Pro keeps your important documents safe, organized, and always within reach.\n\nDocScan Pro is built to fit a wide range of daily needs. Students scan lecture notes and textbooks, freelancers send invoices and agreements, and families organize important records such as medical files and warranties. Regular updates improve accuracy, speed, and language support. By replacing piles of paper with neat digital folders, DocScan Pro helps you save time, reduce clutter, and find exactly what you need whenever you need it.",
+        "size": 149,
+        "reviews": "562.8k",
+        "ratingAvg": 4.2,
+        "downloads": "10M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18296
+            },
+            {
+                "name": "2 star",
+                "count": 25645
+            },
+            {
+                "name": "3 star",
+                "count": 70595
+            },
+            {
+                "name": "4 star",
+                "count": 153427
+            },
+            {
+                "name": "5 star",
+                "count": 294851
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/gameverse/200/200",
+        "title": "GameVerse",
+        "companyName": "Arcadia Games",
+        "id": 16,
+        "description": "GameVerse is a colorful playground packed with hundreds of casual and arcade games, all in one app. Instead of searching for a new download every time you feel like playing, you can open GameVerse and choose from puzzles, racing, platformers, word games, card games, trivia, strategy, and quick reflex challenges. Every game loads fast and is designed for easy pick-up play, which makes it perfect for short breaks or long relaxing evenings.\n\nThe collection is carefully curated to offer something for everyone. Beginners can enjoy simple, friendly games with gentle learning curves, while experienced players can tackle tougher levels that reward skill and strategy. New titles arrive every week, and editor picks highlight standout games you might have missed. Categories, tags, and a smart search bar help you find exactly the style of play you are in the mood for, from calm brain teasers to fast-paced action.\n\nPlaying with friends is where GameVerse becomes even more fun. Invite people from your contact list, challenge them to a head-to-head match, or join a team and work toward shared goals. Global and friends-only leaderboards show how you rank in each game, and weekly tournaments offer special rewards for top performers. Built-in chat and emoji reactions let you cheer, tease, and celebrate with your friends in real time.\n\nProgress and rewards are shared across the entire app. Earn coins and experience points for every game you play, then use them to unlock avatars, themes, power-ups, and exclusive game modes. Daily missions and login bonuses provide fresh goals, while achievement badges recognize your milestones. Your profile displays your favorite games, best scores, and collected rewards, so friends can see what you are proud of.\n\nFamily-friendly controls make GameVerse suitable for all ages. Parents can set playtime limits, filter content, and restrict spending, while players can enjoy a safe, respectful community with reporting and moderation tools. Many games work offline, so the fun continues on flights and commutes. Smooth performance, vibrant graphics, and a constantly growing library make GameVerse a dependable home for mobile gaming.\n\nGameVerse is also about community and creativity. Seasonal events, limited-time festivals, and themed challenges give players new reasons to return, and developers regularly add fresh content based on player feedback. Whether you want a five-minute break, a friendly rivalry, or a long weekend of exploration, GameVerse delivers variety and fun without complicated setups. It is a welcoming place where every kind of player can relax, compete, and smile.",
+        "size": 79,
+        "reviews": "287.8k",
+        "ratingAvg": 4.2,
+        "downloads": "2.5M",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18732
+            },
+            {
+                "name": "2 star",
+                "count": 12405
+            },
+            {
+                "name": "3 star",
+                "count": 26041
+            },
+            {
+                "name": "4 star",
+                "count": 64129
+            },
+            {
+                "name": "5 star",
+                "count": 166476
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/sleepwell/200/200",
+        "title": "SleepWell",
+        "companyName": "Calm Orbit",
+        "id": 17,
+        "description": "SleepWell is a smart sleep companion that helps you understand your nights and wake up feeling more refreshed. Good sleep affects mood, memory, energy, and overall health, yet many people have little idea how well they actually rest. SleepWell tracks your sleep patterns, offers soothing tools for winding down, and provides easy-to-follow reports that guide you toward better habits.\n\nSleep tracking works quietly in the background. Place your phone on the bed or nearby, or connect a compatible wearable, and the app monitors movement and sound to estimate when you fall asleep, how long you spend in light and deep sleep, and how often you wake during the night. In the morning, you receive a simple sleep score along with a clear summary of duration, consistency, and interruptions, so you can see at a glance how the night went.\n\nThe smart alarm makes mornings gentler. Instead of ringing at an exact minute, it looks for the lightest phase of sleep within a window you choose and wakes you with gradually rising sounds. Many users find this helps them feel less groggy and more ready to start the day. Customizable alarm tones, vibration options, and a snooze mode let you tailor the experience to your routine.\n\nWinding down is just as important as waking up. SleepWell includes a library of white noise, rain, ocean waves, fan hum, soft music, and calming nature sounds that can be mixed to your taste and faded out with a timer. Guided breathing exercises and short relaxation routines help quiet a busy mind, while a bedtime reminder encourages a regular schedule. Optional sleep notes let you record caffeine, exercise, stress, and screen time to discover what affects your rest.\n\nNightly reports become weekly and monthly trends that reveal patterns and progress. Personalized tips suggest small changes, such as adjusting bedtime or reducing late-night snacks, based on your own data. Snoring and sleep-talking recordings can be saved and reviewed if you wish. Your information stays private and secure, and you can export reports to share with a professional. SleepWell makes better sleep feel achievable.\n\nSleepWell is designed to build better habits gently, without turning rest into another source of stress. Small, realistic suggestions are offered gradually, and progress is celebrated even when improvements are modest. Over several weeks, many users notice that a steadier routine, a calmer evening, and a peaceful wake-up make a real difference in their energy and mood. With SleepWell beside your bed, every night becomes a chance to feel better tomorrow.",
+        "size": 167,
+        "reviews": "807k",
+        "ratingAvg": 4.3,
+        "downloads": "250k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 21246
+            },
+            {
+                "name": "2 star",
+                "count": 44225
+            },
+            {
+                "name": "3 star",
+                "count": 86827
+            },
+            {
+                "name": "4 star",
+                "count": 152440
+            },
+            {
+                "name": "5 star",
+                "count": 502234
+            }
+        ]
+    },
+    {
+        "image": "https://picsum.photos/seed/codebuddy/200/200",
+        "title": "CodeBuddy",
+        "companyName": "DevNest",
+        "id": 18,
+        "description": "CodeBuddy is a friendly learning app that makes programming approachable for anyone, anywhere. You do not need a laptop, a computer science degree, or prior experience to begin. With short interactive lessons and a mobile-friendly code editor, CodeBuddy turns spare minutes into real progress, whether you are a student, a career changer, or simply curious about how software works.\n\nLearning paths guide you from the very basics to practical, job-ready skills. Start with core ideas such as variables, conditions, loops, and functions, then continue into web development with HTML, CSS, and JavaScript, or explore languages like Python and Java. Each lesson explains one concept in plain language, shows a short example, and then asks you to try it yourself. Immediate feedback highlights mistakes and offers helpful hints, so you learn by doing instead of only reading.\n\nThe built-in editor is designed for small screens. Smart keyboard shortcuts, auto-completion, syntax highlighting, and quick symbol buttons make typing code on a phone far less frustrating. Run your programs instantly and view the output beside your code, then experiment by changing values and seeing what happens. Practice challenges range from easy warm-ups to tricky puzzles that train logical thinking and problem-solving, which are valuable skills for every developer.\n\nProjects make your learning feel meaningful. Build a simple calculator, a to-do list, a personal portfolio page, a quiz game, and other small applications step by step, then save and share them with friends or add them to your online profile. Concept quizzes, flashcards, and daily practice sessions reinforce what you have learned and help you remember it over the long term. A friendly assistant can explain error messages and suggest next steps when you feel stuck.\n\nCodeBuddy keeps you motivated with streaks, badges, progress charts, and a welcoming learner community where you can ask questions, share solutions, and celebrate milestones. Lessons can be downloaded for offline study, and your progress syncs across devices. Regularly updated content keeps pace with modern technology. With patience, curiosity, and a little time each day, CodeBuddy helps you grow from beginner to confident coder.\n\nCodeBuddy is committed to making technology education open and encouraging. Lessons are written by experienced instructors and tested with beginners, so explanations stay clear and friendly, and accessibility options support different learning styles. Many learners use CodeBuddy to prepare for interviews, build a first portfolio, or simply enjoy a creative new skill. Every line you write is a step toward bigger ideas, and CodeBuddy is ready to guide each one.",
+        "size": 165,
+        "reviews": "168.3k",
+        "ratingAvg": 4.4,
+        "downloads": "500k",
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4934
+            },
+            {
+                "name": "2 star",
+                "count": 3735
+            },
+            {
+                "name": "3 star",
+                "count": 16478
+            },
+            {
+                "name": "4 star",
+                "count": 40703
+            },
+            {
+                "name": "5 star",
+                "count": 102411
             }
         ]
     }

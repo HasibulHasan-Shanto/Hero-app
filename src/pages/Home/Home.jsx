@@ -1,15 +1,14 @@
 import { useLoaderData } from "react-router";
 import Banner from "../../components/Banner/Banner";
-import Apps from "../Apps/Apps";
-
+import Applications from "../Applications/Applications";
 
 const Home = () => {
     const apps = useLoaderData()
-    console.log(apps);
+    // console.log(apps);
     return (
         <div>
            <Banner></Banner>
-            <Apps apps={apps}></Apps>
+            <Applications apps={apps}></Applications>
         </div>
     );
 };

@@ -7,7 +7,7 @@ const Banner = () => {
             <h1 className="text-7xl font-bold">
                 We Build <br /><span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold">Productive</span> Apps
             </h1>
-            <p className="text-gray-400 py-5">
+            <p className="text-gray-600 py-5">
                 At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.
             </p>
             <div className="flex justify-center gap-3">

@@ -1,18 +1,16 @@
+import { useLoaderData } from "react-router";
+import Appli from "../appli/appli";
 
 
-const Apps = ({ apps }) => {
-    console.log(apps);
+const Apps = () => {
+    const apps = useLoaderData()
     return (
-        <div>
-            {/* {
-                apps.map(app => (
-                    <div>
-                        <h1>
-                            name{app.companyName}
-                        </h1>
-                    </div>
-                ))
-            } */}
+        <div className="grid grid-cols-4 gap-5">
+            {
+                apps.map(ap => <Appli
+                    ap={ap}
+                    key={ap.id}></Appli>)
+            }
         </div>
     );
 };
