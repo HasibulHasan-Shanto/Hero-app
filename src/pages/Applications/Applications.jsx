@@ -35,7 +35,7 @@ const Applications = ({ apps }) => {
                     }
                 </div>
                 <Link to='/apps'>
-                    <button className="flex items-center gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] py-2 px-4 rounded-md text-white m-auto my-10 font-semibold">
+                    <button className="flex items-center gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] py-2 px-6 rounded-md text-white m-auto my-10 font-semibold">
                         Show all
                     </button>
                 </Link>

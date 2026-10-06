@@ -3,6 +3,8 @@ import { GoDownload } from "react-icons/go";
 import { FaStar } from "react-icons/fa6";
 import { MdOutlineReviews } from "react-icons/md";
 import { Bar, BarChart, CartesianGrid, Tooltip, XAxis, YAxis } from 'recharts';
+import { useState } from "react";
+import { addApp, getApp } from "../../utils/LocalStorage";
 
 
 
@@ -13,9 +15,33 @@ const AppDetails = () => {
 
     const details = data.find((ply) => ply.id === appId);
 
-    // console.log(details);
-    // console.log(id);
     const rechart = details.ratings;
+
+    const installedApps = getApp()
+
+    const alreadyInstalled = installedApps.find(
+        app => app.id === details.id
+    )
+    const [toggle, setToggle] = useState(alreadyInstalled)
+
+
+    // const navigate = useNavigate()
+    const handleInstall = () => {
+
+        const addedApp = addApp(details)
+        if (addedApp) {
+            alert('Installed Done')
+            setToggle(true)
+            // navigate(`/installation/${id}`)
+            return
+        }
+        else {
+            alert('This app already installed')
+            return
+        }
+
+
+    }
 
     return (
         <>
@@ -80,9 +106,16 @@ const AppDetails = () => {
                                 </strong>
                             </div>
                         </div>
-                        <button className="bg-[#00D390] text-white
+                        <button
+                            onClick={() => {
+
+                                handleInstall(details.id)
+                            }}
+                            className="bg-[#00D390] text-white
                     font-semibold py-2 px-6 rounded-md">
-                            Install Now ({details.size} MB)
+                            {
+                                toggle ? `Installed` : `Install Now (${details.size} MB)`
+                            }
                         </button>
                     </div>
                 </div>
@@ -125,7 +158,7 @@ const AppDetails = () => {
                 <hr className="text-gray-400 my-10" />
                 <div>
                     <p className="font-bold mb-8">
-                        Description 
+                        Description
                     </p>
                     <p>
                         {details.description}

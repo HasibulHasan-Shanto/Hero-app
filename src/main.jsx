@@ -8,6 +8,8 @@ import Home from './pages/Home/Home.jsx';
 import Installation from './pages/Installation/Installation.jsx';
 import Apps from './pages/Apps/Apps.jsx';
 import AppDetails from './pages/AppDetails/AppDetails.jsx';
+import Error from './Error/Error.jsx';
+import NotFound from './NotFound/NotFound.jsx';
 
 const router = createBrowserRouter([
   {
@@ -16,7 +18,7 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        loader: ()=> fetch('../public/apps.json'),
+        loader: () => fetch('../public/apps.json'),
         Component: Home
       },
       {
@@ -31,12 +33,23 @@ const router = createBrowserRouter([
       },
       {
         path: '/installation',
+        loader: () => fetch('../public/apps.json'),
+        Component: Installation
+      },
+      {
+        path: '/installation/:id',
+        loader: () => fetch('../public/apps.json'),
         Component: Installation
       },
       {
         path: '/appDetails/:id',
         loader: () => fetch('../public/apps.json'),
-        Component: AppDetails
+        Component: AppDetails,
+        errorElement: <Error></Error>
+      },
+      {
+        path: "*",
+        element: <NotFound />
       }
     ]
   },

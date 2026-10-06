@@ -35,7 +35,7 @@ const Header = () => {
                         </ul>
                     </div>
                     <div>
-                        <a href="" className='flex items-center gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] py-2 px-4 rounded-md text-white'>
+                        <a target='blank' href="https://github.com/HasibulHasan-Shanto" className='flex items-center gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] py-2 px-4 rounded-md text-white'>
                             <FaGithub />
                             <button className=''>
                                 Contribute
