@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 const Header = () => {
     return (
-        <div className="bg-red-500 p-5">
+        <div className="bg-white shadow-md p-5">
             <div className="max-w-355 mx-auto">
                 <div className="flex items-center justify-between">
                     <div className="flex items-center gap-3">

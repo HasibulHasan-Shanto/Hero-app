@@ -18,32 +18,32 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: Home
       },
       {
         path: '/apps',
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: Apps
       },
       {
         path: '/apps/:id',
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: Apps
       },
       {
         path: '/installation',
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: Installation
       },
       {
         path: '/installation/:id',
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: Installation
       },
       {
         path: '/appDetails/:id',
-        loader: () => fetch('../public/apps.json'),
+        loader: () => fetch('/apps.json'),
         Component: AppDetails,
         errorElement: <Error></Error>
       },

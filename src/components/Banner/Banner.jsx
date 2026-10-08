@@ -4,7 +4,7 @@ import banner from '../../assets/hero.png';
 const Banner = () => {
     return (
         <div className="text-center">
-            <h1 className="text-7xl font-bold">
+            <h1 className="text-7xl font-bold mt-15">
                 We Build <br />
                 <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-bold">
                     Productive
@@ -41,7 +41,7 @@ const Banner = () => {
 
             <img className="m-auto mt-10" src={banner} alt="Hero Banner" />
 
-            <div className="gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white font-bold py-10 mt-10">
+            <div className="gap-2 bg-linear-to-r from-[#632EE3] to-[#9F62F2] rounded-md text-white font-bold py-10">
                 <h2 className="text-4xl mb-4">
                     Trusted by Millions, Built for You
                 </h2>
